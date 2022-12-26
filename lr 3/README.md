@@ -75,3 +75,4 @@ for (x in unique(starwars_data$species)) {
   }
 ```
 
+### Васильева София БИСО-03-19
